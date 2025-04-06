@@ -59,7 +59,7 @@ fig = px.scatter_geo(
     lat="Latitude",
     lon="Longitude",
     color=variavel,
-    color_continuous_scale="viridis",
+    color_continuous_scale="turbo",
     projection="orthographic",
     title=f"{variavel_label} em {ano} (★ = Alta Viabilidade)",
     template="plotly_dark",

@@ -93,7 +93,7 @@ Este gráfico mostra como a extensão média do gelo na Antártica varia ao long
 ### 🌍 Relação com Desertificação Polar:
 
 - A diminuição da cobertura de gelo reduz o efeito de albedo, aumentando a absorção de calor.
-- Isso acelera o aquecimento da região, contribuindo diretamente para o **processo de desertificação dos desertos polares**.
+- Embora a Antártida já seja considerada um **Deserto polar**, o aquecimento da região pode modificar seus padrões ambientais, levando a transformações que lembram processos associados à desertificação em outras regiões.
 - A perda de gelo nos verões é crítica: representa um desequilíbrio crescente na sazonalidade natural.
 
 ---

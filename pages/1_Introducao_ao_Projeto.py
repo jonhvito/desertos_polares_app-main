@@ -26,7 +26,7 @@ st.markdown("""
   
 
 - **📊 Energia e Clima:**  
-  -Gráficos interativos com dados de radiação solar, ventos, temperatura e outros fatores climáticos.
+  -Gráficos interativos com dados de radiação solar, ventos, temperatura e outros elementos climáticos.
 
 
 - **📍 Mapa Energético:**  

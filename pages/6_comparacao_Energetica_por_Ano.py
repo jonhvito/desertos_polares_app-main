@@ -54,7 +54,7 @@ def plotar_mapa(df_comp, variavel_label, ano1, ano2):
         lat="Latitude",
         lon="Longitude",
         color="Diferença",
-        color_continuous_scale="RdBu",
+        color_continuous_scale="turbo",
         template="plotly_dark",
         title=f"Variação espacial de {variavel_label}",
         hover_data={
